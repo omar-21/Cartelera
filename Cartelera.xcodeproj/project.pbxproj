@@ -7,21 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		073C03FB233ECD8000E367BD /* PaymentsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 073C03FA233ECD8000E367BD /* PaymentsViewController.swift */; };
+		073C03FD233ED0A700E367BD /* PaymentsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 073C03FC233ED0A700E367BD /* PaymentsTableViewCell.swift */; };
 		075EB686232BFE4D00F3D055 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075EB685232BFE4D00F3D055 /* AppDelegate.swift */; };
-		075EB688232BFE4D00F3D055 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075EB687232BFE4D00F3D055 /* ViewController.swift */; };
 		075EB68B232BFE4D00F3D055 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 075EB689232BFE4D00F3D055 /* Main.storyboard */; };
 		075EB68D232BFE4E00F3D055 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 075EB68C232BFE4E00F3D055 /* Assets.xcassets */; };
 		075EB690232BFE4E00F3D055 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 075EB68E232BFE4E00F3D055 /* LaunchScreen.storyboard */; };
+		075EB69A232BFE8D00F3D055 /* Peliculas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075EB697232BFE8D00F3D055 /* Peliculas.swift */; };
+		075EB69B232BFE8D00F3D055 /* PelsCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075EB698232BFE8D00F3D055 /* PelsCollectionViewCell.swift */; };
+		075EB69E232C047200F3D055 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075EB69D232C047200F3D055 /* SecondViewController.swift */; };
+		075EB6A0232C133700F3D055 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075EB69F232C133700F3D055 /* ThirdViewController.swift */; };
+		075EB6A2232C135200F3D055 /* HorarioTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075EB6A1232C135200F3D055 /* HorarioTableViewCell.swift */; };
+		075EB6A4232C1A9F00F3D055 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075EB6A3232C1A9F00F3D055 /* FourthViewController.swift */; };
+		077F4A74233DA53400680445 /* CartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 077F4A73233DA53400680445 /* CartViewController.swift */; };
+		077F4A76233DA82900680445 /* BoletosComprados.swift in Sources */ = {isa = PBXBuildFile; fileRef = 077F4A75233DA82900680445 /* BoletosComprados.swift */; };
+		077F4A78233DAFA800680445 /* CartTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 077F4A77233DAFA800680445 /* CartTableViewCell.swift */; };
+		077F4A7A233DE2EC00680445 /* ShoppingCart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 077F4A79233DE2EC00680445 /* ShoppingCart.swift */; };
+		07950BA12334A6D600F30BB8 /* Funciones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07950BA02334A6D600F30BB8 /* Funciones.swift */; };
+		BCD9377A2332CA1E0032C53D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCD937792332CA1E0032C53D /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		073C03FA233ECD8000E367BD /* PaymentsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaymentsViewController.swift; sourceTree = "<group>"; };
+		073C03FC233ED0A700E367BD /* PaymentsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaymentsTableViewCell.swift; sourceTree = "<group>"; };
 		075EB682232BFE4D00F3D055 /* Cartelera.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cartelera.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		075EB685232BFE4D00F3D055 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		075EB687232BFE4D00F3D055 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		075EB68A232BFE4D00F3D055 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		075EB68C232BFE4E00F3D055 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		075EB68F232BFE4E00F3D055 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		075EB691232BFE4E00F3D055 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		075EB697232BFE8D00F3D055 /* Peliculas.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Peliculas.swift; sourceTree = "<group>"; };
+		075EB698232BFE8D00F3D055 /* PelsCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PelsCollectionViewCell.swift; sourceTree = "<group>"; };
+		075EB69D232C047200F3D055 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		075EB69F232C133700F3D055 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		075EB6A1232C135200F3D055 /* HorarioTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorarioTableViewCell.swift; sourceTree = "<group>"; };
+		075EB6A3232C1A9F00F3D055 /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
+		077F4A73233DA53400680445 /* CartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartViewController.swift; sourceTree = "<group>"; };
+		077F4A75233DA82900680445 /* BoletosComprados.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoletosComprados.swift; sourceTree = "<group>"; };
+		077F4A77233DAFA800680445 /* CartTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartTableViewCell.swift; sourceTree = "<group>"; };
+		077F4A79233DE2EC00680445 /* ShoppingCart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingCart.swift; sourceTree = "<group>"; };
+		07950BA02334A6D600F30BB8 /* Funciones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Funciones.swift; sourceTree = "<group>"; };
+		BCD937792332CA1E0032C53D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +80,51 @@
 		075EB684232BFE4D00F3D055 /* Cartelera */ = {
 			isa = PBXGroup;
 			children = (
+				07B15CB2234421D60038A6FD /* Classes */,
+				07B15CB12344216A0038A6FD /* ViewClasses */,
+				07B15CB02344212E0038A6FD /* ViewControllers */,
 				075EB685232BFE4D00F3D055 /* AppDelegate.swift */,
-				075EB687232BFE4D00F3D055 /* ViewController.swift */,
 				075EB689232BFE4D00F3D055 /* Main.storyboard */,
 				075EB68C232BFE4E00F3D055 /* Assets.xcassets */,
 				075EB68E232BFE4E00F3D055 /* LaunchScreen.storyboard */,
 				075EB691232BFE4E00F3D055 /* Info.plist */,
 			);
 			path = Cartelera;
+			sourceTree = "<group>";
+		};
+		07B15CB02344212E0038A6FD /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				075EB69D232C047200F3D055 /* SecondViewController.swift */,
+				075EB69F232C133700F3D055 /* ThirdViewController.swift */,
+				075EB6A3232C1A9F00F3D055 /* FourthViewController.swift */,
+				BCD937792332CA1E0032C53D /* ViewController.swift */,
+				077F4A73233DA53400680445 /* CartViewController.swift */,
+				073C03FA233ECD8000E367BD /* PaymentsViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		07B15CB12344216A0038A6FD /* ViewClasses */ = {
+			isa = PBXGroup;
+			children = (
+				075EB698232BFE8D00F3D055 /* PelsCollectionViewCell.swift */,
+				075EB6A1232C135200F3D055 /* HorarioTableViewCell.swift */,
+				077F4A77233DAFA800680445 /* CartTableViewCell.swift */,
+				073C03FC233ED0A700E367BD /* PaymentsTableViewCell.swift */,
+			);
+			path = ViewClasses;
+			sourceTree = "<group>";
+		};
+		07B15CB2234421D60038A6FD /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				075EB697232BFE8D00F3D055 /* Peliculas.swift */,
+				07950BA02334A6D600F30BB8 /* Funciones.swift */,
+				077F4A75233DA82900680445 /* BoletosComprados.swift */,
+				077F4A79233DE2EC00680445 /* ShoppingCart.swift */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -135,8 +198,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				075EB688232BFE4D00F3D055 /* ViewController.swift in Sources */,
+				075EB6A2232C135200F3D055 /* HorarioTableViewCell.swift in Sources */,
+				073C03FB233ECD8000E367BD /* PaymentsViewController.swift in Sources */,
+				07950BA12334A6D600F30BB8 /* Funciones.swift in Sources */,
+				077F4A74233DA53400680445 /* CartViewController.swift in Sources */,
+				077F4A78233DAFA800680445 /* CartTableViewCell.swift in Sources */,
+				075EB69A232BFE8D00F3D055 /* Peliculas.swift in Sources */,
+				075EB69B232BFE8D00F3D055 /* PelsCollectionViewCell.swift in Sources */,
+				075EB6A4232C1A9F00F3D055 /* FourthViewController.swift in Sources */,
+				075EB69E232C047200F3D055 /* SecondViewController.swift in Sources */,
+				073C03FD233ED0A700E367BD /* PaymentsTableViewCell.swift in Sources */,
+				075EB6A0232C133700F3D055 /* ThirdViewController.swift in Sources */,
+				BCD9377A2332CA1E0032C53D /* ViewController.swift in Sources */,
+				077F4A7A233DE2EC00680445 /* ShoppingCart.swift in Sources */,
 				075EB686232BFE4D00F3D055 /* AppDelegate.swift in Sources */,
+				077F4A76233DA82900680445 /* BoletosComprados.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
